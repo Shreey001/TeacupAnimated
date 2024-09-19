@@ -1,0 +1,1 @@
+This project is a simple yet elegant tea cup animation built with pure HTML and CSS. The design features a cup with a steaming hot drink, animated vapour, and a stylized saucer plate. It uses CSS animations and gradients to bring the elements to life.
